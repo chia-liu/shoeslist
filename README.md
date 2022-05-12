@@ -1,7 +1,7 @@
-#shoeslist
+# shoeslist
 ajax practice ｜using jquery
 
-check here [ Live Site ](-)
+check here [ Live Site ](https://chia-liu.github.io/shoeslist/)
 
 <!-- ### Screenshot -->
 
